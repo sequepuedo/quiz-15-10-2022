@@ -1,0 +1,3 @@
+1)."nombre:"tatan
+"edad":30
+"genero":k
